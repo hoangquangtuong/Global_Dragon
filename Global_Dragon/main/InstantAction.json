@@ -1,0 +1,16 @@
+{
+  "HasProblem": true,
+  "ForceUpdate": true,
+  "Problem": "Update",
+  "Version": "1.0.4",
+  "Stable_Version": {
+    "Valid_Version": [
+      "1.0.0",
+      "1.0.1",
+      "1.0.2",
+      "1.0.3",
+      "1.0.4"
+    ],
+    "RealTime_AutoUpdate": false
+  }
+}
